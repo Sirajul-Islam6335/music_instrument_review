@@ -1,5 +1,5 @@
 # Music Instruments Review Analysis
-The project aims to analyze customer reviews of musical instruments to understand sentiment patterns and build a model capable of classifying reviews based on text data.
+This project aims to analyze customer reviews of musical instruments to understand sentiment patterns and build a model capable of classifying reviews based on text data.
 
 ## Text Preprocessing
 Text preprocessing was applied to clean and standardize the raw data, including lowercasing, punctuation removal, tokenization, stopword removal, and lemmatization.
