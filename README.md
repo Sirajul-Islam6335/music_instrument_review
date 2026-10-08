@@ -140,19 +140,6 @@ All results are on the same held-out **test set of 2,053 reviews** (1,809 positi
 
 ---
 
-## 📁 Project Structure
-
-```
-music_instrument_review/
-├── music_instruments_review -f.ipynb   # Full workflow: EDA → preprocessing → modelling → UI
-├── Musical_instruments_reviews.csv     # Raw dataset (10,261 reviews)
-├── best_model.pkl                      # Tuned RBF SVM (best_estimator_ from GridSearchCV)
-├── full_gridsearch.pkl                 # Full fitted GridSearchCV object
-├── images/                             # Confusion-matrix figures used in this README
-└── README.md
-```
-
----
 
 ## 🚀 Getting Started
 
